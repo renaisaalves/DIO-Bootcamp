@@ -10,7 +10,8 @@
 var desconto = 0.2;
 const PRECO = 2;
 
-desconto = PRECO - desconto;
+desconto = PRECO - desconto; // A variável desconto vai sofrer alteração do seu valor inicial.
 PRECO = PRECO - desconto; // Isso está errado, pois a constante PRECO não pode ter o seu valor alterado.
 
+var total = PRECO - desconto;
 
