@@ -23,6 +23,7 @@ ALGORITMO PARA IMPRIMIR "HELLO WORLD!" EM JAVASCRIPT NO TERMINAL DO VSCODE
 5º cd Introdução-JS vai me fazer caminhar para a pasta Introdução-JS
 6º node funcoes.js vai executar tudo o que foi escrito em JavaScript, ou seja, vai mostrar no terminal o que foi feito nessa linguagem de programação
 
+Se você quer que os resultados escritos em JavaScript saiam em tempo real, faça isso no Console do próprio navegador. node ajuda a rodar a linguagem no terminal, mas não será em tempo real (igual acontece em Python)
 */
 
 console.log("Hello World!");
