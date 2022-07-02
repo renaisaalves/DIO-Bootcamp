@@ -6,8 +6,10 @@
 
 function soma(a, b) {
     //console.log(a + b);
-    return a + b;
+    return a + b; // vai me retornar 8
 }
+
+soma(3, 5);
 
 /* Reparem que temos a nossa função prontinha. Ela serve para somar dois valores, os quais serão informados.
    - O comando "return" serve para retornar o resultado da instrução que foi dada na função, mas não tem o caráter de exibir na tela esse resultado. 
