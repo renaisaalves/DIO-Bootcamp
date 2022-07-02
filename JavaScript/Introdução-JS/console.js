@@ -18,6 +18,10 @@ node = executar o JavaScript no terminal.
 ALGORITMO PARA IMPRIMIR "HELLO WORLD!" EM JAVASCRIPT NO TERMINAL DO VSCODE
 1º Clicando em "Terminal", vamos abrir o terminal. 
 2º Vamos localizar onde está o nosso arquivo contendo console.log("Hello World!"); 
+3º ls exibe onde estamos localizados. 
+4º cd faz caminhar pela pesta desejada, por exemplo: cd JavaScript vai me fazer ir para a pasta JavaScript
+5º cd Introdução-JS vai me fazer caminhar para a pasta Introdução-JS
+6º node funcoes.js vai executar tudo o que foi escrito em JavaScript, ou seja, vai mostrar no terminal o que foi feito nessa linguagem de programação
 
 */
 
