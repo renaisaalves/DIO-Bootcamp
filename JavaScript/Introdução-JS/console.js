@@ -6,3 +6,4 @@ Para usar a linguagem JavaScript no navegador (vou usar o Google Chrome), basta 
 
 Porém, vale ressaltar que o JavaScript só pode ser usado dessa maneira no lado Client-Side, ou seja, no lado do Front. Para conseguir usar o JavaScript no lado do Servidor, você precisa baixar uma ferramenta chamada node.JS, que vai fazar o JavaScript funcionar também no lado BackEnd.
 */
+
