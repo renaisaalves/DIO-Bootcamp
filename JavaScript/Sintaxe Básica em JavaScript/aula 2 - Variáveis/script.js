@@ -74,3 +74,33 @@ O sinal de === significa "comparação idêntica". Isso significa que esse sinal
 
 Nos operadores aritméticos, é igual o Python: adição (+), subtração (-), divisão (/), potenciação (**), resto (%)... exemplo: */
 
+/*Operadores Relacionais, Aritméticos e Lógicos
+
+Nos operadores aritméticos, é igual o Python: adição (+), subtração (-), divisão (/), potenciação (**), resto (%)... exemplo:*/
+
+var adicao = 2 + 3;
+console.log(adicao)
+
+//Alguns operadores relacionais também são iguais ao Python:
+
+var relacional = 5 > 2;
+console.log(relacional);
+
+var relacional_igual = 5 >= 2;
+console.log(relacional_igual);
+
+/*Já os operadores lógicos se diferenciam bastante. Vejam como eles são:
+
+&& = and (consideram que todos os valores sejam true);
+|| = or (consideram que pelo menos um dos valores seja true);
+! = not (inverte os valores true para false e false para true).*/
+
+var and = true && true;
+console.log(and)
+
+var or = true || false;
+console.log(or)
+
+var not = ! true;
+console.log(not)
+
