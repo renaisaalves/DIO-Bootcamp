@@ -58,7 +58,7 @@ console.log(novoArray);
 /*O que são objetos?
 O objeto possui características e atributos, e são sempre colocados entre chaves { }. */
 
-let object = {propriedade: 'string', number: '1', boolean: 'true', array: ['array'], objectInterno {objectInterno: 'objeto interno'}};
+let object = {propriedade: 'string', number: '1', boolean: 'true', array: ['array'], objectInterno /*{objectInterno: 'objeto interno'}*/};
 console.log(object.boolean);
 
 var string = object.string;
